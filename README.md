@@ -11,3 +11,6 @@
 # application interview
 ## heise
 [application interview](https://heise.de/-4653797)
+
+# jobs
+[IT-Berufe-UeberblickUeberDasBerufsfeld](https://www.it-talents.de/foerderung/bonus/it-berufe)
