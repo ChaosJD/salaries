@@ -5,6 +5,7 @@
 
 # it-talents
 [It-SalariesJun2018](https://www.it-talents.de/blog/it-talents/informatiker-gehalt-was-it-profis-verdienen)  
+[GehaltAlsInformatiker-DieBestbezahltenBerufeDIT-BrancheJune2018](https://www.it-talents.de/blog/it-talents/informatiker-gehalt-was-it-profis-verdienen#-einstiegsgehalt-mit-bachelor-abschluss-in-informatik)
 
 # application interview
 ## heise
