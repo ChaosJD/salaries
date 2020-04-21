@@ -10,7 +10,8 @@
 
 # application interview
 ## heise
-[application interview](https://heise.de/-4653797)
+[application interview](https://heise.de/-4653797)  
+[So erkennst du, ob ein Unternehmen zu dir passt](https://t3n.de/news/darauf-sollten-bewerber-achten-1265895/)  
 
 # jobs
 [IT-Berufe-UeberblickUeberDasBerufsfeld](https://www.it-talents.de/foerderung/bonus/it-berufe)
