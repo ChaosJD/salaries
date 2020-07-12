@@ -16,3 +16,6 @@
 
 # jobs
 * T-Berufe-UeberblickUeberDasBerufsfeld](https://www.it-talents.de/foerderung/bonus/it-berufe)
+
+# getInIt
+* [Einstiegsgehalt für Informatiker 2020](https://www.get-in-it.de/magazin/gehalt/statistik?utm_source=facebook&utm_medium=cpc&utm_campaign=magazin&utm_content=statistik)
