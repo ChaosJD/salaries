@@ -14,6 +14,7 @@
 * [Application interview](https://heise.de/-4653797)  
 * [Soerkennst du, ob ein Unternehmen zu dir passt](https://t3n.de/news/darauf-sollten-bewerber-achten-1265895/)  
 * [Bitkom-Studie 2020: Hamburg ist der IT-Hotspot in Deutschland ](https://heise.de/-4876676)
+* [Hilfsjob trotz Ausbildung: Millionen Beschäftigte überqualifiziert](https://heise.de/-4926164)
 
 # jobs
 * [T-Berufe-UeberblickUeberDasBerufsfeld](https://www.it-talents.de/foerderung/bonus/it-berufe)
