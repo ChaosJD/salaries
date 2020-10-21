@@ -21,3 +21,6 @@
 
 # getInIt
 * [Einstiegsgehalt für Informatiker 2020](https://www.get-in-it.de/magazin/gehalt/statistik?utm_source=facebook&utm_medium=cpc&utm_campaign=magazin&utm_content=statistik)
+
+# article
+* [Die schwierige Suche nach dem richtigen Arbeitgeber](https://www.golem.de/news/it-jobs-die-schwierige-suche-nach-dem-richtigen-arbeitgeber-2010-150045.html)
