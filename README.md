@@ -24,3 +24,4 @@
 
 # article
 * [Die schwierige Suche nach dem richtigen Arbeitgeber](https://www.golem.de/news/it-jobs-die-schwierige-suche-nach-dem-richtigen-arbeitgeber-2010-150045.html)
+* [Gerichtsurteile. Wann fristlose Kündigung für IT-Mitarbeiter rechtens sind](https://www.golem.de/news/gerichtsurteile-wann-fristlose-kuendigungen-fuer-it-mitarbeiter-rechtens-sind-2009-150784.html)
