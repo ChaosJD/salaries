@@ -26,3 +26,6 @@
 # article
 * [Die schwierige Suche nach dem richtigen Arbeitgeber](https://www.golem.de/news/it-jobs-die-schwierige-suche-nach-dem-richtigen-arbeitgeber-2010-150045.html)
 * [Gerichtsurteile. Wann fristlose Kündigung für IT-Mitarbeiter rechtens sind](https://www.golem.de/news/gerichtsurteile-wann-fristlose-kuendigungen-fuer-it-mitarbeiter-rechtens-sind-2009-150784.html)
+
+## kununu
+* [Gehalt: Finde heraus, wie viel du verlangen kannst 2020-12-10](https://news.kununu.com/gehalt-wie-viel-verlangen/?utm_source=CleverReach&utm_medium=email&utm_campaign=knl_10.12.2020&utm_content=Mailing_12396474)
