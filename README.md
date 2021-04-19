@@ -3,7 +3,7 @@
 # Golem
 * [It-SalairesJan2020](https://www.golem.de/news/it-gehaelter-je-nach-branche-bis-zu-1-000-euro-mehr-2001-145936.html)
 * [WhatIT-ProfessionalsEarnDecember2020](https://www.golem.de/news/gehaltsauswertung-fuer-golem-de-was-it-fachleute-verdienen-2012-151498.html)
-* [https://www.golem.de/news/it-jobs-sechs-warnsignale-bei-bewerbungsgespraechen-2104-155528.html](https://www.golem.de/news/it-jobs-sechs-warnsignale-bei-bewerbungsgespraechen-2104-155528.html)
+* [Sechs Warnsignale bei Bewerbungsgesprächen](https://www.golem.de/news/it-jobs-sechs-warnsignale-bei-bewerbungsgespraechen-2104-155528.html)
 )
 
 # it-talents
