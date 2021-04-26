@@ -4,7 +4,7 @@
 * [It-SalairesJan2020](https://www.golem.de/news/it-gehaelter-je-nach-branche-bis-zu-1-000-euro-mehr-2001-145936.html)
 * [WhatIT-ProfessionalsEarnDecember2020](https://www.golem.de/news/gehaltsauswertung-fuer-golem-de-was-it-fachleute-verdienen-2012-151498.html)
 * [Sechs Warnsignale bei Bewerbungsgesprächen](https://www.golem.de/news/it-jobs-sechs-warnsignale-bei-bewerbungsgespraechen-2104-155528.html)
-)
+* [Gehaltsrechner zeigt an, wann das Maximum erreicht wird](https://www.golem.de/news/stepstone-gehaltsrechner-zeigt-an-wann-das-maximum-erreicht-wird-2104-155979.html)
 
 # it-talents
 * [It-SalariesJun2018](https://www.it-talents.de/blog/it-talents/informatiker-gehalt-was-it-profis-verdienen)  
@@ -31,3 +31,9 @@
 
 ## kununu
 * [Gehalt: Finde heraus, wie viel du verlangen kannst 2020-12-10](https://news.kununu.com/gehalt-wie-viel-verlangen/?utm_source=CleverReach&utm_medium=email&utm_campaign=knl_10.12.2020&utm_content=Mailing_12396474)
+
+## calculator
+* [Gehaltpotenzialrechner](https://www.stepstone.de/gehaltspotenzial-rechner)
+* [Buhl-Brutto-Netto-Rechner](https://www.buhl.de/steuernsparen/brutto-netto-rechner/)
+* [Arbeiterkammer-Brutto-Netto-Rechner](https://bruttonetto.arbeiterkammer.at/)
+* [SpiegelOnline-Brutto-Netto-Rechner](https://www.spiegel.de/wirtschaft/service/brutto-netto-rechner-was-von-lohn-und-gehalt-uebrig-bleibt-a-223811.html)
