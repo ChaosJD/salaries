@@ -5,6 +5,7 @@
 * [WhatIT-ProfessionalsEarnDecember2020](https://www.golem.de/news/gehaltsauswertung-fuer-golem-de-was-it-fachleute-verdienen-2012-151498.html)
 * [Sechs Warnsignale bei Bewerbungsgesprächen](https://www.golem.de/news/it-jobs-sechs-warnsignale-bei-bewerbungsgespraechen-2104-155528.html)
 * [Gehaltsrechner zeigt an, wann das Maximum erreicht wird](https://www.golem.de/news/stepstone-gehaltsrechner-zeigt-an-wann-das-maximum-erreicht-wird-2104-155979.html)
+* [Wer mehr Gehalt möchte, braucht einen Plan](https://www.golem.de/news/it-jobs-wer-mehr-gehalt-moechte-braucht-einen-plan-2105-156448.html)
 
 # it-talents
 * [It-SalariesJun2018](https://www.it-talents.de/blog/it-talents/informatiker-gehalt-was-it-profis-verdienen)  
