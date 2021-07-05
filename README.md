@@ -14,6 +14,9 @@
 * [GehaltAlsWerkstudentInDerIT-&InformatikBranche](https://www.it-talents.de/it-karriereguide/informatik-das-berufsbild/gehalt-als-werkstudent-in-der-it-und-informatik-branche)
 * [Gehaltsverhandlung als Informatiker in der IT-Branche](https://www.it-talents.de/it-karriereguide/vorstellungsgespraech/gehaltsverhandlung-in-der-it-branche)
 
+# t3n
+* [Was macht eigentlich ein IT-Consultant? ]{https://t3n.de/news/it-consultant-profil-1107325/}
+
 # application interview
 ## heise
 * [Application interview](https://heise.de/-4653797)  
