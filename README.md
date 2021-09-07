@@ -15,7 +15,8 @@
 * [Gehaltsverhandlung als Informatiker in der IT-Branche](https://www.it-talents.de/it-karriereguide/vorstellungsgespraech/gehaltsverhandlung-in-der-it-branche)
 
 # t3n
-* [Was macht eigentlich ein IT-Consultant? ]{https://t3n.de/news/it-consultant-profil-1107325/}
+* [Was macht eigentlich ein IT-Consultant? ](https://t3n.de/news/it-consultant-profil-1107325/)
+* [Statt mehr Geld: 10 beliebte Alternativen zur Gehaltserhöhung](https://t3n.de/news/alternativen-gehaltserhoehung-steuerfrei-sozialabgabenfrei-arbeitgeber-1158679/)
 
 # application interview
 ## heise
