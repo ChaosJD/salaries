@@ -17,6 +17,7 @@
 # t3n
 * [Was macht eigentlich ein IT-Consultant? ](https://t3n.de/news/it-consultant-profil-1107325/)
 * [Statt mehr Geld: 10 beliebte Alternativen zur Gehaltserhöhung](https://t3n.de/news/alternativen-gehaltserhoehung-steuerfrei-sozialabgabenfrei-arbeitgeber-1158679/)
+* [„Dringend gesucht“: Diese Formulierungen in Stellenanzeigen sind Warnsignale](https://t3n.de/news/stellenanzeigen-formulierungen-warnsignale-1342176/)
 
 # application interview
 ## heise
