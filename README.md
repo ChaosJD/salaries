@@ -19,11 +19,11 @@
 * [Was macht eigentlich ein IT-Consultant? ](https://t3n.de/news/it-consultant-profil-1107325/)
 * [Statt mehr Geld: 10 beliebte Alternativen zur Gehaltserhöhung](https://t3n.de/news/alternativen-gehaltserhoehung-steuerfrei-sozialabgabenfrei-arbeitgeber-1158679/)
 * [„Dringend gesucht“: Diese Formulierungen in Stellenanzeigen sind Warnsignale](https://t3n.de/news/stellenanzeigen-formulierungen-warnsignale-1342176/)
+* [Soerkennst du, ob ein Unternehmen zu dir passt](https://t3n.de/news/darauf-sollten-bewerber-achten-1265895/) 
 
 # application interview
 ## heise
-* [Application interview](https://heise.de/-4653797)  
-* [Soerkennst du, ob ein Unternehmen zu dir passt](https://t3n.de/news/darauf-sollten-bewerber-achten-1265895/)  
+* [Application interview](https://heise.de/-4653797)   
 * [Bitkom-Studie 2020: Hamburg ist der IT-Hotspot in Deutschland ](https://heise.de/-4876676)
 * [Hilfsjob trotz Ausbildung: Millionen Beschäftigte überqualifiziert](https://heise.de/-4926164)
 
