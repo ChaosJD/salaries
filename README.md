@@ -28,7 +28,7 @@
 * [Hilfsjob trotz Ausbildung: Millionen Beschäftigte überqualifiziert](https://heise.de/-4926164)
 
 # jobs
-* [T-Berufe-UeberblickUeberDasBerufsfeld](https://www.it-talents.de/foerderung/bonus/it-berufe)
+* [IT-Berufe-UeberblickUeberDasBerufsfeld](https://www.it-talents.de/foerderung/bonus/it-berufe)
 
 # getInIt
 * [Einstiegsgehalt für Informatiker 2020](https://www.get-in-it.de/magazin/gehalt/statistik?utm_source=facebook&utm_medium=cpc&utm_campaign=magazin&utm_content=statistik)
@@ -36,6 +36,7 @@
 # article
 * [Die schwierige Suche nach dem richtigen Arbeitgeber](https://www.golem.de/news/it-jobs-die-schwierige-suche-nach-dem-richtigen-arbeitgeber-2010-150045.html)
 * [Gerichtsurteile. Wann fristlose Kündigung für IT-Mitarbeiter rechtens sind](https://www.golem.de/news/gerichtsurteile-wann-fristlose-kuendigungen-fuer-it-mitarbeiter-rechtens-sind-2009-150784.html)
+* [Karriere machen: "Viel arbeiten hilft beim Aufstieg wenig"]( https://heise.de/-6216371)
 
 ## kununu
 * [Gehalt: Finde heraus, wie viel du verlangen kannst 2020-12-10](https://news.kununu.com/gehalt-wie-viel-verlangen/?utm_source=CleverReach&utm_medium=email&utm_campaign=knl_10.12.2020&utm_content=Mailing_12396474)
