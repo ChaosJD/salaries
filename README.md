@@ -19,7 +19,10 @@
 * [Was macht eigentlich ein IT-Consultant? ](https://t3n.de/news/it-consultant-profil-1107325/)
 * [Statt mehr Geld: 10 beliebte Alternativen zur Gehaltserhöhung](https://t3n.de/news/alternativen-gehaltserhoehung-steuerfrei-sozialabgabenfrei-arbeitgeber-1158679/)
 * [„Dringend gesucht“: Diese Formulierungen in Stellenanzeigen sind Warnsignale](https://t3n.de/news/stellenanzeigen-formulierungen-warnsignale-1342176/)
-* [Soerkennst du, ob ein Unternehmen zu dir passt](https://t3n.de/news/darauf-sollten-bewerber-achten-1265895/) 
+* [Soerkennst du, ob ein Unternehmen zu dir passt](https://t3n.de/news/darauf-sollten-bewerber-achten-1265895/)
+
+## talent.io
+* [Software-Entwickler\*innen Gehaltsbericht 2021](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-DE_2021_talent.io.pdf)
 
 # application interview
 ## heise
