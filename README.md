@@ -29,6 +29,7 @@
 * [Application interview](https://heise.de/-4653797)   
 * [Bitkom-Studie 2020: Hamburg ist der IT-Hotspot in Deutschland ](https://heise.de/-4876676)
 * [Hilfsjob trotz Ausbildung: Millionen Beschäftigte überqualifiziert](https://heise.de/-4926164)
+* [Studie: Steigende IT-Gehälter und anhaltender Fachkräftemangel_2021](https://heise.de/-6265814)
 
 # jobs
 * [IT-Berufe-UeberblickUeberDasBerufsfeld](https://www.it-talents.de/foerderung/bonus/it-berufe)
