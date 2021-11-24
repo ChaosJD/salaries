@@ -8,6 +8,7 @@
 * [Wer mehr Gehalt möchte, braucht einen Plan](https://www.golem.de/news/it-jobs-wer-mehr-gehalt-moechte-braucht-einen-plan-2105-156448.html)
 * [Gute Aussichten in schlechten Zeiten2021](https://www.golem.de/news/studien-zu-it-gehaeltern-gute-aussichten-in-schlechten-zeiten-2105-156816.html)
 * [IT-Gehälter steigen trotz der Pandemie Oktober2021](https://www.golem.de/news/anzeige-it-gehaelter-steigen-trotz-der-pandemie-2110-160168.html)
+* [Wie viele Jobwechsel verträgt ein Lebenslauf?](https://www.golem.de/news/it-arbeitsmarkt-wie-viele-jobwechsel-vertraegt-ein-lebenslauf-2111-161005.html)
 
 # it-talents
 * [It-SalariesJun2018](https://www.it-talents.de/blog/it-talents/informatiker-gehalt-was-it-profis-verdienen)  
