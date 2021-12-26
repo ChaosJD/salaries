@@ -21,6 +21,7 @@
 * [Statt mehr Geld: 10 beliebte Alternativen zur Gehaltserhöhung](https://t3n.de/news/alternativen-gehaltserhoehung-steuerfrei-sozialabgabenfrei-arbeitgeber-1158679/)
 * [„Dringend gesucht“: Diese Formulierungen in Stellenanzeigen sind Warnsignale](https://t3n.de/news/stellenanzeigen-formulierungen-warnsignale-1342176/)
 * [Soerkennst du, ob ein Unternehmen zu dir passt](https://t3n.de/news/darauf-sollten-bewerber-achten-1265895/)
+* [Gedrillt im Coding-Bootcamp: Sie wurde in 12 Wochen zur Programmiererin](https://t3n.de/magazin/coding-bootcamps-gedrillt-zum-programmierer-248965/)
 
 ## talent.io
 * [Software-Entwickler\*innen Gehaltsbericht 2021](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-DE_2021_talent.io.pdf)
